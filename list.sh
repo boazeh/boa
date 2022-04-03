@@ -6,3 +6,7 @@ zack
 bayan
 boon
 class0
+mayo
+nathan
+dami
+faspoly
